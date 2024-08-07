@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amritjyot Singh
-- 👀 I’m interested in Arduino  and Python Programming
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Machine Learning and Full Stack Web Development
+- 🌱 I’m currently learning Python, Java and C++
 
 <!---
 Amritjyot-2004/Amritjyot-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
